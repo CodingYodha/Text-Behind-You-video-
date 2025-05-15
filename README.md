@@ -16,11 +16,11 @@ Add **text behind people** in a video using semantic segmentation — no heavy e
 
 ## 🛠️ Tech Stack
 
-- Python 🐍
-- PyTorch
-- torchvision
-- OpenCV
-- PIL (Pillow)
+- Python 🐍  
+- PyTorch  
+- torchvision  
+- OpenCV  
+- PIL (Pillow)  
 
 ---
 
@@ -48,5 +48,5 @@ Add **text behind people** in a video using semantic segmentation — no heavy e
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/text-behind-person.git
-cd text-behind-person
+git clone https://github.com/CodingYodha/Text-Behind-You-video-.git
+cd Text-Behind-You-video-
